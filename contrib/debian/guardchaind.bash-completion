@@ -1,0 +1,2 @@
+contrib/guardchaind.bash-completion	guardchaind
+contrib/guardchain-cli.bash-completion    guardchain-cli

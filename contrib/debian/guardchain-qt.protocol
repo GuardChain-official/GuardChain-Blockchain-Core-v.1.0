@@ -1,0 +1,11 @@
+[Protocol]
+exec=guardchain-qt '%u'
+protocol=guardchain
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false

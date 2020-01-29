@@ -1,0 +1,25 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="ar">locale/guardchain_ar.qm</file>
+        <file alias="bg">locale/guardchain_bg.qm</file>
+        <file alias="de">locale/guardchain_de.qm</file>
+        <file alias="en">locale/guardchain_en.qm</file>
+        <file alias="es">locale/guardchain_es.qm</file>
+        <file alias="fi">locale/guardchain_fi.qm</file>
+        <file alias="fr">locale/guardchain_fr.qm</file>
+        <file alias="it">locale/guardchain_it.qm</file>
+        <file alias="ja">locale/guardchain_ja.qm</file>
+        <file alias="ko">locale/guardchain_ko.qm</file>
+        <file alias="nl">locale/guardchain_nl.qm</file>
+        <file alias="pl">locale/guardchain_pl.qm</file>
+        <file alias="pt">locale/guardchain_pt.qm</file>
+        <file alias="ru">locale/guardchain_ru.qm</file>
+        <file alias="sk">locale/guardchain_sk.qm</file>
+        <file alias="sv">locale/guardchain_sv.qm</file>
+        <file alias="th">locale/guardchain_th.qm</file>
+        <file alias="tr">locale/guardchain_tr.qm</file>
+        <file alias="vi">locale/guardchain_vi.qm</file>
+        <file alias="zh_CN">locale/guardchain_zh_CN.qm</file>
+        <file alias="zh_TW">locale/guardchain_zh_TW.qm</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,6 @@
+usr/local/bin/guardchain-qt usr/bin
+share/pixmaps/guardchain32.xpm usr/share/pixmaps
+share/pixmaps/guardchain16.xpm usr/share/pixmaps
+share/pixmaps/guardchain128.png usr/share/pixmaps
+debian/guardchain-qt.desktop usr/share/applications
+debian/guardchain-qt.protocol usr/share/kde4/services/

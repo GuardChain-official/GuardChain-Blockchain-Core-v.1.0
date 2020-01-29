@@ -1,0 +1,22 @@
+[Unit]
+Description=GuardChain's distributed currency daemon
+After=network.target
+
+[Service]
+User=guardchaincore
+Group=guardchaincore
+
+Type=forking
+PIDFile=/var/lib/guardchaind/guardchaind.pid
+ExecStart=/usr/bin/guardchaind -daemon -pid=/var/lib/guardchaind/guardchaind.pid \
+-conf=/etc/guardchaincore/guardchain.conf -datadir=/var/lib/guardchaind -disablewallet
+
+Restart=always
+PrivateTmp=true
+TimeoutStopSec=60s
+TimeoutStartSec=2s
+StartLimitInterval=120s
+StartLimitBurst=5
+
+[Install]
+WantedBy=multi-user.target

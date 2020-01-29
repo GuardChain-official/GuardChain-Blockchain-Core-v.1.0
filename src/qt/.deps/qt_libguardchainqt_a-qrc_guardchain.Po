@@ -1,0 +1,4 @@
+qt/qt_libguardchainqt_a-qrc_guardchain.o: qt/qrc_guardchain.cpp \
+ /usr/include/stdc-predef.h
+
+/usr/include/stdc-predef.h:
